@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "multi-newduo",
+    "description": "multi-newduo",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
